@@ -1,0 +1,11 @@
+publication:gc_art_diss
+publication:gc_clas_diss
+publication:gc_cl_diss
+publication:gc_engl_diss
+publication:gc_fren_diss
+publication:gc_hist_diss
+publication:gc_ling_diss
+publication:gc_mes_theses
+publication:gc_mus_diss
+publication:gc_phil_diss
+publication:gc_thea_diss

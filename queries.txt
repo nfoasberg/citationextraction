@@ -1,0 +1,11 @@
+https://academicworks.cuny.edu/do/oai/?verb=ListRecords&from=2015-01-01&until=2016-12-31&metadataPrefix=oai_dc&set=publication:gc_art_diss
+https://academicworks.cuny.edu/do/oai/?verb=ListRecords&from=2015-01-01&until=2016-12-31&metadataPrefix=oai_dc&set=publication:gc_clas_diss
+https://academicworks.cuny.edu/do/oai/?verb=ListRecords&from=2015-01-01&until=2016-12-31&metadataPrefix=oai_dc&set=publication:gc_cl_diss
+https://academicworks.cuny.edu/do/oai/?verb=ListRecords&from=2015-01-01&until=2016-12-31&metadataPrefix=oai_dc&set=publication:gc_engl_diss
+https://academicworks.cuny.edu/do/oai/?verb=ListRecords&from=2015-01-01&until=2016-12-31&metadataPrefix=oai_dc&set=publication:gc_fren_diss
+https://academicworks.cuny.edu/do/oai/?verb=ListRecords&from=2015-01-01&until=2016-12-31&metadataPrefix=oai_dc&set=publication:gc_hist_diss
+https://academicworks.cuny.edu/do/oai/?verb=ListRecords&from=2015-01-01&until=2016-12-31&metadataPrefix=oai_dc&set=publication:gc_ling_diss
+https://academicworks.cuny.edu/do/oai/?verb=ListRecords&from=2015-01-01&until=2016-12-31&metadataPrefix=oai_dc&set=publication:gc_mes_theses
+https://academicworks.cuny.edu/do/oai/?verb=ListRecords&from=2015-01-01&until=2016-12-31&metadataPrefix=oai_dc&set=publication:gc_mus_diss
+https://academicworks.cuny.edu/do/oai/?verb=ListRecords&from=2015-01-01&until=2016-12-31&metadataPrefix=oai_dc&set=publication:gc_phil_diss
+https://academicworks.cuny.edu/do/oai/?verb=ListRecords&from=2015-01-01&until=2016-12-31&metadataPrefix=oai_dc&set=publication:gc_thea_diss
